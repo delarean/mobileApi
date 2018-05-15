@@ -1,0 +1,9 @@
+{
+  "product_id" : 1,
+  "related_services_id" : [
+    2,
+    1,
+    3
+  ],
+  "orders_id" : 1
+}
